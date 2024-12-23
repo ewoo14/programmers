@@ -19,6 +19,6 @@ public class ColaProblem {
     }
 
     public static void main(String[] args) {
-        System.out.println("출력값 : " + solution(3, 1, 20));
+        System.out.println("출력값 : " + solution(3, 1, 4));
     }
 }
